@@ -196,7 +196,6 @@
     starship
     vim
     wget
-    wl-clipboard
     zsh
     zsh-autosuggestions
     zsh-syntax-highlighting
