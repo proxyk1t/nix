@@ -156,7 +156,7 @@
     gnome-boxes
     gnome-clocks
     gnome-connections
-    gnome-contacs
+    gnome-contacts
     gnome-font-viewer
     gnome-logs
     gnome-maps
