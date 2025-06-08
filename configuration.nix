@@ -181,7 +181,6 @@
     btop
     curl
     eza
-    emacsPackages.mpv
     fastfetch
     fzf
     gcc_multi
