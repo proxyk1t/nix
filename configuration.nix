@@ -70,7 +70,6 @@
   # Bluetooth #
   hardware.bluetooth.enable = true;
   hardware.bluetooth.powerOnBoot = true;
-  services.blueman.enable = true;
 
   # Sound #
   security.rtkit.enable = true;
@@ -176,7 +175,6 @@
   environment.systemPackages = with pkgs; [
     # Tuis #
     alsa-utils
-    blueman
     btop
     curl
     eza
